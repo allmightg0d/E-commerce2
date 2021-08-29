@@ -1,0 +1,130 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.Container__all__Black {
+  display: flex;
+  margin-top: 5px;
+  justify-content: center;
+  box-shadow: 0 15px 40px rgba(158, 0, 0, 0.5);
+  width: 600px;
+}
+
+.Container__all {
+  display: flex;
+  margin-top: 5px;
+  justify-content: center;
+  box-shadow: 0 5px 40px rgba(0, 0, 0, 0.5);
+  width: 600px;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+}
+
+.Container__Card {
+  display: grid;
+  grid-template-columns: 150px 150px 30px 150px 20px;
+  gap: 4px;
+}
+
+.style__text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.style__text_black {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+
+.Container__Icon {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-left: 15px;
+}
+
+.container__h4 {
+  display: flex;
+  justify-content: center;
+}
+
+.Total__Style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  text-align: center;
+  color: black(224, 7, 7);
+  box-shadow: 0 5px 40px rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  width: 200px;
+  height: 50px;
+}
+
+.Total_Style_Black {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  text-align: center;
+  color: white(224, 7, 7);
+  box-shadow: 0 5px 40px rgba(158, 0, 0, 0.5);
+  padding: 10px;
+  width: 200px;
+  height: 50px;
+}
+
+.h4__Style {
+  color: white;
+  font-family: "Dela Gothic One", cursive;
+  font-size: 40px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.grid__Cart {
+  display: flex;
+  justify-content: space-around;
+}
+
+.Input__Style {
+  display: flex;
+  justify-content: center;
+  width: 600px;
+}
+
+.Style__Form {
+  display: flex;
+  justify-content: center;
+}
+
+.container__ {
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.backGround__Img {
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20201010/pngtree-black-friday-seamless-background-illustration-with-sale-tag-shopping-bag-and-image_407934.jpg");
+  object-fit: center;
+  object-position: center;
+}
+
+.backGround__Img__Black {
+  box-shadow: 0 5px 40px rgba(158, 0, 0, 0.5);
+}

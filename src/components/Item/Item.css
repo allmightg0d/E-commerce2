@@ -1,0 +1,29 @@
+.Item__container {
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 5px 40px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  transition: all 0.2s ease-out;
+}
+
+.Item__container__Dark {
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 5px 40px rgba(158, 0, 0, 0.5);
+  text-align: center;
+  transition: all 0.2s ease-out;
+}
+
+.Item__container__Dark:hover {
+  transform: scale(1.1);
+}
+
+.Item__container:hover {
+  transform: scale(1.1);
+}
+
+.Container__img {
+  height: 260px;
+  display: flex;
+  align-items: center;
+}
