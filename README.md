@@ -9,9 +9,13 @@ Corre la aplicacion en modo de desarrollo. Abre http://localhost:3000 para verlo
 
 Y listo, así de fácil.
 
-Funcionalidades
-E-COMMERCE es una Single Page Application que simula ser un e-commerce. Este mismo goza de:
+## Vista previa:
+<img src="https://media2.giphy.com/media/Kelmor7u0flNMeHXrk/giphy.gif?cid=790b7611bbfd6463dd45a2406b704abf3efac826cc7ce346&rid=giphy.gif&ct=g" alt="gif mostrando como funciona el ecommerce">
 
+## Funcionalidades:
+E-COMMERCE es una Single Page Application que simula ser un e-commerce.
+
+## Descripción:
 Un carro accesible desde cualquier lugar de la aplicación en el que persisten los items que se agreguen, a menos que se refresque.
 Una navegación fácil y ágil entre todas las partes del e-commerce, con poco retraso entre cada cambio de vista.
 Un buen flujo de compra, con botones grandes y lindos y fáciles de apretar.
@@ -21,3 +25,6 @@ Feedback de la compra realizada mostrando el orden de la compra.
 Unos productos re copados que todo el mundo quiere tener.
 Dependencias
 Para este proyecto decidí usar Semantic UI para el styling. Para las fuentes usé Google Fonts. Y último pero no menos importante, el proyecto entero esta hecho sobre React, Node y para la base de datos utilicé Firebase.
+
+## Deploy:
+<a href="https://thirsty-ritchie-2df0ed.netlify.app/"> Live Site </a>
