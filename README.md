@@ -12,10 +12,10 @@ Y listo, así de fácil.
 ## Vista previa:
 <img src="https://media2.giphy.com/media/Kelmor7u0flNMeHXrk/giphy.gif?cid=790b7611bbfd6463dd45a2406b704abf3efac826cc7ce346&rid=giphy.gif&ct=g" alt="gif mostrando como funciona el ecommerce">
 
-## Funcionalidades:
+## Descripción:
 E-COMMERCE es una Single Page Application que simula ser un e-commerce.
 
-## Descripción:
+## Funcionalidades:
 Un carro accesible desde cualquier lugar de la aplicación en el que persisten los items que se agreguen, a menos que se refresque.
 Una navegación fácil y ágil entre todas las partes del e-commerce, con poco retraso entre cada cambio de vista.
 Un buen flujo de compra, con botones grandes y lindos y fáciles de apretar.
